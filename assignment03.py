@@ -59,6 +59,7 @@ if num % 4 == 0 and num % 6 == 0:
 else:
     print("number is not divisible")
 
+
 # 7. Calculate electricity bill using different unit rates
 # Example rates:
 # First 100 units → ₹5/unit
